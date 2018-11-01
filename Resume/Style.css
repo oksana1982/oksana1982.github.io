@@ -1,0 +1,23 @@
+
+			.font_title {
+				text-indent: 70px;
+				background-color: #B0E2FF;
+				font-family: "Verdana, Courier New, Bookman Old Style";
+				font-weight: bold;
+				font-style: italic;
+				font-size: 22px;
+				color: #3A5FCD;
+			}
+			.font_subtitle {
+				font-weight: bold;
+				font-size: 18px;
+				font-style: italic;		
+			}
+			.font_osn {
+				font-size: 18px;
+				color: #27408B
+			}
+			
+			h1, h2, h3{
+				text-align:center;
+			}
